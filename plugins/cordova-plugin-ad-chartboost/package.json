@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-ad-chartboost",
+        "scope": null,
+        "escapedName": "cordova-plugin-ad-chartboost",
+        "name": "cordova-plugin-ad-chartboost",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\xampp2\\htdocs\\www\\wouldyourather_cordova\\node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-ad-chartboost@latest",
+  "_id": "cordova-plugin-ad-chartboost@1.0.83",
+  "_inCache": true,
+  "_location": "/cordova-plugin-ad-chartboost",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-ad-chartboost-1.0.83.tgz_1478542250124_0.33219850552268326"
+  },
+  "_npmUser": {
+    "name": "cranberrygame",
+    "email": "cranberrygame@yahoo.com"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-ad-chartboost",
+    "scope": null,
+    "escapedName": "cordova-plugin-ad-chartboost",
+    "name": "cordova-plugin-ad-chartboost",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ad-chartboost/-/cordova-plugin-ad-chartboost-1.0.83.tgz",
+  "_shasum": "46c297c2d837f7e43e9b63ba3df8602e6aa6e7a0",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-ad-chartboost",
+  "_where": "C:\\xampp2\\htdocs\\www\\wouldyourather_cordova\\node_modules",
+  "author": {
+    "name": "cranberrygame"
+  },
+  "bugs": {
+    "url": "https://github.com/cranberrygame/cordova-plugin-ad-chartboost/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-ad-chartboost",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Show chartboost interstitial (static interstitial, video interstial), more apps, rewarded video ad",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "46c297c2d837f7e43e9b63ba3df8602e6aa6e7a0",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-ad-chartboost/-/cordova-plugin-ad-chartboost-1.0.83.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "9c4f3023877a64023c389ac9c07e257c897200a1",
+  "homepage": "https://github.com/cranberrygame/cordova-plugin-ad-chartboost#readme",
+  "keywords": [
+    "cordova",
+    "plugin",
+    "ad",
+    "video",
+    "chartboost",
+    "monetisation",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "cranberrygame",
+      "email": "cranberrygame@yahoo.com"
+    }
+  ],
+  "name": "cordova-plugin-ad-chartboost",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cranberrygame/cordova-plugin-ad-chartboost.git"
+  },
+  "scripts": {},
+  "version": "1.0.83"
+}
